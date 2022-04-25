@@ -166,5 +166,45 @@ Exposure and response prevention
 - Tapahtumat ja asiat jotka lisäsävät ongelmakäyttäytymisen ilmenemistä
 - Edeltävät tapahtumat tai tilanteet
 - Itse tapakäyttäytyminen
+### Dysmorfinen ruumiinkuvan häiriö
+BDD, Body dysmorfic disorder
+- Luulo viasta ulkonäössä
+- Itsemurhayrityksien esiintyvyys 29 %
+- Murehtiminen ja välttely tyypillistä
+### Kehonkuvan häiriön hoito
+[Dysmorfinen ruumiinkuvan häiriö]
+- 1. vaihe, kokonaisvaltainen kehonkuvan arviointi
+  - Saadaan käsitys asiakkaan tilanteesta, selvitetään vahvuuksia ja haavoittuvimpia alueita
+  - Punnitustilanne, jossa potilas arvioi kokemaansa ahdistusta asteikolla 0-100
+  - Potilas katselee itseään kokovartalopeilistä noin 30 sekunnin ajan ja arvioi taas ahdistusta asteikolla 0-100
+- 2. vaihe, kehonkuvaan liittyvä edukaatio ja asiakkaan tilanteen hahmottaminen
+  - Käydään läpi muutoksen oppimista ja uudelleen oppimisen prosessia
+  - Psykoedukaatiota kielteisen kehonkuvan tavanomaisista syntymekanismeista
+  - Kehonkuvapäiväkirja, johon laitetaan ylös tapahtumia, tekijöitä ja kommentteja lapsuudesta asti, jotka edesauttavat kielteisen kehonkuvan muovautumista
+  - A-B-C-analyysi tilanteesta
+3. vaihe, Kehonkuva-altistus ja desensitisaatio
+  - Opetellaan altistumaan hankalille, välttelykäyttytymistä aiheuttaville tilanteille
+  - Opetellaan myös rentoutustekniikoita
+4. vaihe, Ulkomuotoon kohdistuvien oletusten tunnistaminen ja uudelleen muotoilu
+  -  
+### Stop, look, listen
+- Pysäytetään negatiivinen sisäiunen puhe
+- Etsitään laukaisevat tekijät
+- Keskitytään rationaalisempaan, korjattuun mielensisäiseen itseilmaisuun
+- Tätä voi käyttää kehonkuvanhäiriöstä kärsivien kanssa tai esim. OCD
+- Käytännössä siis:
+  - "Ei ole läskivatsa, vaan kovalla työllä rakennettu"
+  - Uuden ajattelun jälkeen voi pohtia, että oliko tästä enemmän hyötyä
+
+### A-B-C-analyysi
+- __Activators__, laukaisevat tekijät
+  - mitkä tekijät laukaisivat tilanteen
+- __Beliefs__, uskomukset
+  - Ajatukset, oletukset, tulkinnat, siäsinen puhe
+- __Consequences__, seuraamukset
+  - Seuraukset, tunteet ja käyttäytyminen
+
+### Rentoutusharjoitukset
+
 
 *
