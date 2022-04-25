@@ -26,3 +26,32 @@
 
 ### Vaaleanpunaisen elefantin ongelma
 - Ongelmasta ei pääse toipumaan jos jo asian ajattelu saa aikaan kohtauksen
+
+### Inhibitorinen oppiminen
+- Odotusten rikkominen
+  - Eli rikotaan odotukset aversiivisestä käytöksestä
+- Syvennetty sammuminen
+- Satunnaisesti vahvistunut sammuminen
+- Turva-vaikutteiden poistaminen
+  - Potilasta kannustetaan menemään tilanteeseen, jossa jotain kamalaa tapahtuu
+  - Sosiaalisten tilanteiden pelon kanssa voidaan käyttää tätä
+  - Vaikka ihminen punastuu tilanteessa, mitään kamalaa ei tapahdu
+  - Eli poistetaan tai ehkäistään _turvakäyttäytymistä_
+- Vaihtelevuus
+  - Vaihdellaan rutiininomaisesti altistusten kestoa ja intensiteettiä
+- Useat ympäristöt
+  - Eli tehdään harjoitteita yksin ja yhdessä, mielikuvissa ja in vivo jne.
+- Uudelleenvahvistaminen
+  - Potilas katsoo kuvia tai videoita ahdistusta aiheuttavasta asiasta noin 30 minuuttia ennen altistusharjoitusta
+
+### OCD:n Hoito-ohjelma
+1. Sessio, hoidon suunnittelu
+  - Käydään läpi potilaan historia
+  - Annetaan psykoedukaatiota OCD:sta potilaalle
+  - Esitellään hoidossa käytettävät itsemonitorointimenetelmät
+  - Sovitaan tavoitteet hoidolle, esim. suihkussa käymiseen käytetty aika lasketaan tunnista varttiin
+  - Sovitaan konsultaatiopuhelut ja kotitehtävät
+  - Altistus tulisi siis aloittaa jo heti ensimmäisellä käynnillä
+  
+  
+*
