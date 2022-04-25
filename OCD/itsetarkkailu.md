@@ -4,6 +4,9 @@
 - Potilaan tulee valmentaa läheisiään, sillä läheiset voivat ylläpitää pakkokäyttäytymistä
 - Potilaan tulisi hankkia avustaja, treatment buddy, jonka tehtävä on kannustaa ja tsempata
 - Y-BOCS on laaja-alainen seurantalomake, jota tulisi käyttää
+- Itsehavainnointi voi muodostua rituaaliksi
+- Tarkkaavuuden häiriö vaikeuttaa itsenäisten harjoitteiden toteuttamista
+- Lifestyle exposure: potilaan tulisi kokoajan etsiä kohteita mille altistua
 
 ### Hoito-ohjelma
 - Altistaminen
@@ -11,7 +14,7 @@
   - Voidaan kokeilla, toteutuuko potilaan uhkakuvat
   - Potilasta opetetaan näkemään ahdistavia tilanteita ja altistumaan näille
   - LET, lean-into-anxiety
-  - Hoito vaatii
+  - Altistaminen on hyvä aloittaa jo heti ekasta vastaanotosta
 - Mielikuvaharjoittelu
   - Mitä tapahtuu jos potilas ei ritualisoi?
 - Reagoinnin ehkäisy
@@ -20,3 +23,6 @@
   - Potilasta siis altistetaan pelottaville ajatuksille
   - Ajatukset voi nauhoittaa ja kuunnella
   - Covert avoidance, piilovälttely, eli nauhalta kuultuna ajatuksia ei pääse karkuun
+
+### Vaaleanpunaisen elefantin ongelma
+- Ongelmasta ei pääse toipumaan jos jo asian ajattelu saa aikaan kohtauksen
