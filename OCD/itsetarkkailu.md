@@ -147,5 +147,24 @@
   2. maailmasta: "maailma on epäreilu"
   3. tulevaisuudesta: "tulevaisuus on toivoton"
 - 
+### Bergenin malli
+- OCD-potilaiden hoito neljässä päivässä
+### Altistushoito, 
+Exposure and response prevention
+- Vapaaehtoista, toistuvaa altistumista pelkoa tuottavalle vaikutteelle
+- Pelkoa ei yritetä poistaa tai neutralisoida millään yksiyisellä tai julkisella käyttäytymisella
+- Reagoinnin ja rituaalinehkäisyssä on pohjimmiltaan kyse rituaaleista pitäytymisessä
+### Käyttäytyminen
+- Yksityinen käyttäytyminen on ajatukset, tunteet ja muu pään sisällä tapahtuva
+- Julkinen käyttätyminen on ns. ihon ulkopuolella tapahtuvaa
+### TIC-oireet
+- Para-tics on ihmisen yrityksiä peittää tic-oireita
+- Tic-oireisiin liittyy ennakkotunne tai pakottava halu tehdä tietty toiminto
+  - OCD:n pakkotoimintoa edeltää pakkoajatus ja toiminto lievittää ajatuksen aiheuttamaa ahdistusta
+- Kasvojen alueen läpsimisen ajatellaan olevan tapa rauhoittaa itseä
+### Funktionaalinen käyttäytymisanalyysi
+- Tapahtumat ja asiat jotka lisäsävät ongelmakäyttäytymisen ilmenemistä
+- Edeltävät tapahtumat tai tilanteet
+- Itse tapakäyttäytyminen
 
 *
