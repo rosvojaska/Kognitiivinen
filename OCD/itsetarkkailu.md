@@ -188,7 +188,7 @@ BDD, Body dysmorfic disorder
 4. vaihe, Ulkomuotoon kohdistuvien oletusten tunnistaminen ja uudelleen muotoilu
   -  
 ### Stop, look, listen
-- Pysäytetään negatiivinen sisäiunen puhe
+- Pysäytetään negatiivinen sisäinen puhe
 - Etsitään laukaisevat tekijät
 - Keskitytään rationaalisempaan, korjattuun mielensisäiseen itseilmaisuun
 - Tätä voi käyttää kehonkuvanhäiriöstä kärsivien kanssa tai esim. OCD
